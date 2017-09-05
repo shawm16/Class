@@ -3,5 +3,5 @@ import "fmt"
 
 // this is a comment
 func main() {
-	fmt.Println("Hello, OC World KD")
+	fmt.Println("Hello, OC World MD")
 }
